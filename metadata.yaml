@@ -1,0 +1,51 @@
+_repo: The-Wyvern-mystery_68569
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Le Fanu, Brinsley
+    aliases:
+    - Fanu, Brinsley Le
+    - Fanu, B. S. le
+    birthdate: 1854
+    deathdate: 1929
+    gutenberg_agent_id: '7418'
+    url: http://www.gutenberg.org/2009/agents/7418
+creator:
+  author:
+    agent_name: Le Fanu, Joseph Sheridan
+    aliases:
+    - Fanu, J. Sheridan Le
+    - LeFanu, J. S. (Joseph Sheridan)
+    - Fanu, Joseph Sheridan Le
+    birthdate: 1814
+    deathdate: 1873
+    gutenberg_agent_id: '272'
+    url: http://www.gutenberg.org/2009/agents/272
+    wikipedia: https://en.wikipedia.org/wiki/Sheridan_Le_Fanu
+description: ''
+gutenberg_issued: '2022-07-19'
+identifiers:
+  gutenberg: '68569'
+language: en
+pgterms:marc904: https://catalog.hathitrust.org/Record/100338728
+pgterms:marc905: 20220718093535lefanu
+pgterms:marc906: '1889'
+pgterms:marc907: UK
+production_note: an anonymous Project Gutenberg volunteer
+publication_note: UK :Ward and Downey,1889.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Domestic fiction'
+- !lcsh 'Conflict of generations -- Fiction'
+- !lcsh 'Gothic fiction'
+- !lcc 'PR'
+- !lcsh 'Inheritance and succession -- Fiction'
+- !lcsh 'Fathers and sons -- Fiction'
+- !lcsh 'Elopement -- Fiction'
+- !lcsh 'Psychological fiction'
+- !lcsh 'Orphans -- Fiction'
+- GITenberg
+title: The Wyvern mystery
+url: http://www.gutenberg.org/ebooks/68569
